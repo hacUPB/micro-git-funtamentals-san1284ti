@@ -1,7 +1,9 @@
 
 # Cómo crear un repositorio local con comandos de Git.
 
-Para crear un repositorio local con Git, sigue estos pasos:
+<img src="../images/i1.png" alt="Texto alternativo" width="200" height="200">
+
+Para crear un repositorio local con Git, hay que seguir estos pasos:
 
 1. **Inicia un directorio vacío:**
    Si ya tienes un proyecto en una carpeta, navega a esa carpeta en la consola con el comando `cd`:
