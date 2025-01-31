@@ -1,0 +1,28 @@
+
+#Archivos para omitir
+
+# Archivos de compilación
+/dist/
+/build/
+/out/
+*.o
+*.a
+
+# Dependencias de Node.js
+/node_modules/
+/npm-debug.log
+*.o
+*.a
+*.so
+*~
+*.swp
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos de JetBrains (IntelliJ, WebStorm, PhpStorm, etc.)
+.idea/
+
+# Archivos de configuración de Sublime Text
+.sublime-project
+.sublime-workspace
