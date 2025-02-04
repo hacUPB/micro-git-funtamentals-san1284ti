@@ -34,3 +34,14 @@ Para clonar y ejecutar el proyecto, sigue estos pasos:
      git push origin main
      ```
    - Esto actualizará tu repositorio local y sincronizará los cambios con el repositorio remoto en GitHub.
+
+# Tablas 
+
+|   Nombre de Archivo    |   Enlace     |
+|--------------|--------------|
+| Repositorio local| [repositorio_local](./docs/repositorio_local.md) |
+| Repositorio remoto | [repositorio_remoto](./docs/repositorio_remoto.md) |
+| Uso consola| [uso_consola](./docs/uso_consola.md) |
+| src | [script](./src/script.C) |
+| Images | [i1](./images/i1.png) |
+
