@@ -1,4 +1,5 @@
 # Cómo crear un repositorio remoto con comandos de Git.
+<img src="../images/i2.png" alt="Texto alternativo" width="200" height="150">
 
 1. **Conecta a un repositorio remoto:**
    Si deseas vincular tu repositorio local a uno remoto (como GitHub, GitLab, etc.), usa el siguiente comando:
